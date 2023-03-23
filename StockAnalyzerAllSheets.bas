@@ -183,6 +183,6 @@ Cells(4, 17).NumberFormat = "#0.00E+0"
 
 
 'Let the user know that the numbers have been crunched------------------------------------------
-MsgBox ("Your results are ready.  Thank you for your patience.  You deserve a cookie!  There were " + Str(UniqueTickerCount) + " unique stocks analyzed from " + Str(TotalRows) + " data entries.")
+'MsgBox ("Your results are ready.  Thank you for your patience.  You deserve a cookie!")
 
 End Sub
